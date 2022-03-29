@@ -1,0 +1,9 @@
+Design doc:
+  + Build Main loop with async
+  + Build In/Out API
+  + Build frame compute
+  + Builder :
+    - Behemoth
+    - Actor
+    - Active item
+    - Passive item
